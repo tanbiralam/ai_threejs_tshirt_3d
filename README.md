@@ -53,11 +53,8 @@ Welcome to the AI-powered 3D T-shirt website! This application leverages AI and 
   - Express.js
   - Mongoose
   - OpenAI API
-  - Cloudinary
-  - ...
 
 - **Client**:
   - React
   - Three.js
   - Valtio
-  - ...
